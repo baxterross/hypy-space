@@ -1,0 +1,13 @@
+body {
+	text-align: center;
+	font-family: arial;
+}
+h1 {
+	font-weight: 300;
+	font-size: 48px;
+}
+img {
+	width: 260px;
+	margin: 0 auto;
+	display: block;
+}
